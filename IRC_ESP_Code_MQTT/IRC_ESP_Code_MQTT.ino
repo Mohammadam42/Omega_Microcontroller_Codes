@@ -36,7 +36,8 @@ const char* topic_pub = "Omega/web";
 #define WDT_TIMEOUT 800  // 3 seconds timeout
 
 // ================== WIFI CONFIGURATION ==================
-س
+const char* ssid = "Zain Fiber_98AE";
+const char* password = "9BRJnmKJ";
 
 // ================== MQTT CONFIGURATION ==================
 const char* mqtt_server = "885dce4dddce4977b1959e2fd8d937b1.s1.eu.hivemq.cloud";
